@@ -4,7 +4,7 @@
 
 ![Luis Adrian GitHub stats](https://github-readme-stats.vercel.app/api?username=luismachadoo&show_icons=true&theme=dracula)
 
-## Tecnologias que eu utilizo
+## Technologies I work
 
 <br>
 
