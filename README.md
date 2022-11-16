@@ -19,7 +19,7 @@
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div></br>
 
-### I am currently studying Web Development at GamaAcademy.
+### I am currently studying analysis and systems development at Uniasselvi university  .
 </br>
 
 #### Contact:
